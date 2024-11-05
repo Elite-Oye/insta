@@ -1,0 +1,12 @@
+body{
+  background-color: black;
+  color: white;
+  padding-bottom: 5000px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+main{
+  margin-left: 390px;
+  display: flex;
+}
+
+section{}
